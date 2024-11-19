@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D658D2152CBD040C006E42E5 /* ConfirmIdfaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D658D2142CBD040C006E42E5 /* ConfirmIdfaApp.swift */; };
-		D658D2172CBD040C006E42E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D658D2162CBD040C006E42E5 /* ContentView.swift */; };
+		D658D2172CBD040C006E42E5 /* ConfirmIdfaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D658D2162CBD040C006E42E5 /* ConfirmIdfaView.swift */; };
 		D658D2192CBD040D006E42E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D658D2182CBD040D006E42E5 /* Assets.xcassets */; };
 		D658D21C2CBD040D006E42E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D658D21B2CBD040D006E42E5 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		D658D2112CBD040C006E42E5 /* ConfirmIdfa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConfirmIdfa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D658D2142CBD040C006E42E5 /* ConfirmIdfaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmIdfaApp.swift; sourceTree = "<group>"; };
-		D658D2162CBD040C006E42E5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D658D2162CBD040C006E42E5 /* ConfirmIdfaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmIdfaView.swift; sourceTree = "<group>"; };
 		D658D2182CBD040D006E42E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D658D21B2CBD040D006E42E5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				D658D2142CBD040C006E42E5 /* ConfirmIdfaApp.swift */,
-				D658D2162CBD040C006E42E5 /* ContentView.swift */,
+				D658D2162CBD040C006E42E5 /* ConfirmIdfaView.swift */,
 				D658D2182CBD040D006E42E5 /* Assets.xcassets */,
 				D658D21A2CBD040D006E42E5 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D658D2172CBD040C006E42E5 /* ContentView.swift in Sources */,
+				D658D2172CBD040C006E42E5 /* ConfirmIdfaView.swift in Sources */,
 				D658D2152CBD040C006E42E5 /* ConfirmIdfaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
